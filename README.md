@@ -1,4 +1,4 @@
-### Hi there 👋
+### Людмила Григорьева 👋
 
 <!--
 **LudmilaGR/LudmilaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Data Science / Data Аnalyst
+**Data Science / Data Аnalyst**
 
 2021-2022 - обучение в Skillfactory специализациям: Data Science и BI-аналитик
 
