@@ -1,4 +1,4 @@
-![full_03124](https://user-images.githubusercontent.com/76423315/188371332-98cdbfbf-afe5-47af-980b-2d6a0985f041.jpg)
+![ryan-fuller-background](https://user-images.githubusercontent.com/76423315/188371589-b7093d58-6e60-4b13-aa54-43f877ac597a.jpg)
 
 ### Людмила Григорьева 🌱
 
