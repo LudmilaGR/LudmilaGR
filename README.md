@@ -1,4 +1,4 @@
-![Titleimage](pictures/full_03124.jpg)
+![full_03124](https://user-images.githubusercontent.com/76423315/188371332-98cdbfbf-afe5-47af-980b-2d6a0985f041.jpg)
 
 ### Людмила Григорьева 🌱
 
