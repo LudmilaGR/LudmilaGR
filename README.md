@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76423315/188371589-b7093d58-6e60-4b13-aa54-43f877ac597a.jpg" width="12"/>
+<img src="https://user-images.githubusercontent.com/76423315/188371589-b7093d58-6e60-4b13-aa54-43f877ac597a.jpg" width="128"/>
 
 ### Людмила Григорьева 🌱
 
