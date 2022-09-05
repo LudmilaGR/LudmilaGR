@@ -1,4 +1,4 @@
-![Titleimage](C:/Users/Ludmila/Desktop/Обучение/Unit 0/Git/full_03124.jpg)
+![Titleimage](./Users/Ludmila/Desktop/Обучение/Unit 0/Git/full_03124.jpg)
 
 ### Людмила Григорьева 🌱
 
