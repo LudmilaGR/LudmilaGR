@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 2021-2022 - обучение в Skillfactory специализациям: Data Science и BI-аналитик
 
 На github представлены учебные проекты и кейсы Хакатонов, в которых принимала участие. 
-<img src="https://user-images.githubusercontent.com/76423315/188371589-b7093d58-6e60-4b13-aa54-43f877ac597a.jpg" width="128" float="right"/>
+<img src="https://user-images.githubusercontent.com/76423315/188371589-b7093d58-6e60-4b13-aa54-43f877ac597a.jpg" width="86" float="right"/>
