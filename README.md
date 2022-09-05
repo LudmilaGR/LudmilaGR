@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/76423315/188373311-1c42c607-bbe5-449e-b4db-0d445a5bdeb3.jpg" width="5000" height="200"/>
 
-### Людмила Григорьева 🌱
+### *Людмила Григорьева 🌱*
 
 <!--
 **LudmilaGR/LudmilaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
